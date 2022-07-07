@@ -1,0 +1,113 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    
+
+
+}
+.firststep{
+    
+    height: 600px;
+    background-image: url(./image/donation9.jpg);
+    background-size: cover;
+    opacity:0.9;
+    
+
+}
+.firststepone{
+ text-align: center;
+  color: white;
+ padding: 50px;
+
+}
+.fso1{
+    font-size: 70px;
+    font-weight: 2500px;
+    color-scheme: white;
+    width: 750px;
+    padding-left: 220px;
+
+
+}
+.fso2{
+    font-size: 25px;
+    font-weight: 300px;
+    color: aliceblue;
+
+}
+.fso3{
+
+background-color:rgb(235, 67, 6);
+padding: 15px;
+border-radius: 10px;
+
+
+}
+.fso3 a{
+    text-decoration: none ;
+    color: aliceblue;
+    padding: 35px ;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
