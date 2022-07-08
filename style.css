@@ -302,7 +302,60 @@ margin-left: 5px;
 
 }
 
+.bottom{
+margin-top: 150px ;
 
+}
+
+.botttomh1{
+
+
+}
+.hero{
+    text-align: center;
+}
+ .hero1{
+    margin-left: 25%;
+   align-items: center;
+    width: 600px;
+    height: 150PX;
+    text-align: center;
+    padding: 40PX;
+    background-color: bisque;
+
+}
+
+.hero2{
+    padding: 20px;
+    margin-top: 25px;
+}
+
+
+
+.footer1{
+ background-color: black;
+ padding: 100px;
+ margin-top: 100px;
+
+}
+
+.footerh1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400px;
+}
+
+.footerh1:hover{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400px;
+    animation: alternate-reverse;
+    animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+
+    cursor: copy;
+}
 
 
 
