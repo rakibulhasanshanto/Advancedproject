@@ -242,7 +242,75 @@ padding-bottom: 30px;
 
     
         
+    .stepfour{
+
+ margin-top: 40px;
+
+    }
+
+
     
+    .stepfourone{
+        display: flex;
+    }
+.one1{
+    text-align: center;
+    margin-top: 70px;
+    width:55%;
+
+}
+.two2{
+ max-width: 35%;
+
+}
+.on1 h1{
+
+    font-size: 70px;
+    font-weight: 600px;
+}
+
+
+
+.stepfive{
+
+
+
+
+}
+
+.stepfiveone{
+
+display: flex;
+margin-top: 150px;
+
+}
+
+
+.fiveone{
+width: 55%;
+
+
+
+}
+
+.fivetwo{
+margin-top: 70px;
+text-align: center;
+width: 45%;
+margin-left: 5px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
