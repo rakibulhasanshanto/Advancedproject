@@ -147,6 +147,116 @@ text-decoration: underline ;
 }
 
 
+.stepthree{
+    width: 1200px;
+    height: 600px;
+    background-color: ;
+    margin-bottom: 0px ;
+margin-top: 400px;
+
+}
+.stepthree1{
+     text-align: center;
+
+}
+.stepthree1 h1{
+
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-weight: 600px;
+    margin-left: 10%;
+
+
+
+
+
+    
+}
+.stepthree1 p{
+
+
+ text-align: center;
+ color: black;
+
+}
+
+.stepthree2{
+
+ display: flex;
+flex-direction: row;
+width: 1300px;
+height: 400px;
+margin: auto;
+margin-top: 40px;
+margin-left: 5%;
+text-align: center;
+padding-bottom: 30px;
+}
+
+.one{
+    width: 33%;
+    box-sizing:content-box;
+    box-shadow: 20px 20px 6px gainsboro;
+    padding: 20px;
+    margin-right: 70px;
+    float: left;
+    margin-left:10px ;
+    background-color: blueviolet;
+
+ text-emphasis-color: white;
+
+}
+
+.two{
+   
+    width: 33%;
+    box-sizing:content-box;
+    box-shadow: 20px 20px 6px gainsboro;
+    padding: 20px;
+    margin-right: 70px;
+    float: left;
+    margin-left:2px ;
+    background-color:bisque;
+    background-color: brown;
+
+
+    }
+
+
+    .three{
+        
+        width: 33%;
+        box-sizing:content-box;
+        box-shadow: 20px 20px 6px gainsboro;
+        padding: 20px;
+        margin-right: 70px;
+        float: left;
+        margin-left: ;
+        margin-right:2px ;
+        background-image: linear-gradient(bisque,white);
+    
+        }
+
+        
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
